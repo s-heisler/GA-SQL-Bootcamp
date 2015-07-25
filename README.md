@@ -1,4 +1,4 @@
-# GA-SQL-Bootcamp
 #Materials for General Assembly bootcamp
 
-Download `Create Schema.SQL`.
+Instructions:
+Open up `Create Schema.SQL` and paste contents into the schema section of sqlfiddle.com.
