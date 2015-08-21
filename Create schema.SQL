@@ -45,7 +45,8 @@ INSERT INTO Sells (bar_name, beer_name, price) VALUES
 ('Church Key', 'Bud Light', NULL),
 ('Church Key', 'Shock Top', 8),
 ('Church Key', 'Corona', 5),
-('Church Key', 'Sam Adams', 8);
+('Church Key', 'Sam Adams', 8)
+('Church Key', 'Delirium Tremens', 8);
 
 INSERT INTO Likes (drinker, beer_name) VALUES 
 ('Hermione', 'Butterbeer'),
